@@ -1,0 +1,46 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="BE1A1E8D-37FD-4ED6-8514-E319BE35DD11/f:Program.cs" caret="3041" fromTop="30" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="BE1A1E8D-37FD-4ED6-8514-E319BE35DD11/f:Program.cs" caret="1948" fromTop="12" />
+      <File id="BE1A1E8D-37FD-4ED6-8514-E319BE35DD11/f:Program.cs" caret="398" fromTop="15" />
+      <File id="BE1A1E8D-37FD-4ED6-8514-E319BE35DD11/f:Program.cs" caret="384" fromTop="13" />
+      <File id="BE1A1E8D-37FD-4ED6-8514-E319BE35DD11/f:Program.cs" caret="213" fromTop="6" />
+      <File id="BE1A1E8D-37FD-4ED6-8514-E319BE35DD11/f:Program.cs" caret="3395" fromTop="36" />
+      <File id="BE1A1E8D-37FD-4ED6-8514-E319BE35DD11/f:Program.cs" caret="3358" fromTop="32" />
+      <File id="BE1A1E8D-37FD-4ED6-8514-E319BE35DD11/f:Program.cs" caret="3358" fromTop="32" />
+      <File id="BE1A1E8D-37FD-4ED6-8514-E319BE35DD11/f:Program.cs" caret="3018" fromTop="36" />
+      <File id="BE1A1E8D-37FD-4ED6-8514-E319BE35DD11/f:Program.cs" caret="1106" fromTop="14" />
+      <File id="BE1A1E8D-37FD-4ED6-8514-E319BE35DD11/f:Program.cs" caret="704" fromTop="8" />
+      <File id="BE1A1E8D-37FD-4ED6-8514-E319BE35DD11/f:Program.cs" caret="2811" fromTop="31" />
+      <File id="BE1A1E8D-37FD-4ED6-8514-E319BE35DD11/f:Program.cs" caret="2494" fromTop="25" />
+      <File id="BE1A1E8D-37FD-4ED6-8514-E319BE35DD11/f:Program.cs" caret="2832" fromTop="33" />
+      <File id="BE1A1E8D-37FD-4ED6-8514-E319BE35DD11/f:Program.cs" caret="813" fromTop="23" />
+      <File id="BE1A1E8D-37FD-4ED6-8514-E319BE35DD11/f:Program.cs" caret="1946" fromTop="15" />
+      <File id="BE1A1E8D-37FD-4ED6-8514-E319BE35DD11/f:Program.cs" caret="2053" fromTop="19" />
+      <File id="BE1A1E8D-37FD-4ED6-8514-E319BE35DD11/f:Program.cs" caret="2300" fromTop="24" />
+      <File id="BE1A1E8D-37FD-4ED6-8514-E319BE35DD11/f:Program.cs" caret="3251" fromTop="34" />
+      <File id="BE1A1E8D-37FD-4ED6-8514-E319BE35DD11/f:Program.cs" caret="651" fromTop="22" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

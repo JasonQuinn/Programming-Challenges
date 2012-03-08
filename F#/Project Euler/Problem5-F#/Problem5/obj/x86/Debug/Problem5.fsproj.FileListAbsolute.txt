@@ -1,0 +1,12 @@
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem5\Problem5\bin\Debug\Problem5.XML
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem5\Problem5\bin\Debug\Problem5.exe
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem5\Problem5\bin\Debug\Problem5.pdb
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem5\Problem5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem5\Problem5\obj\x86\Debug\Problem5.exe
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem5\Problem5\obj\x86\Debug\Problem5.pdb
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem5-F#\Problem5\bin\Debug\Problem5.XML
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem5-F#\Problem5\bin\Debug\Problem5.exe
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem5-F#\Problem5\bin\Debug\Problem5.pdb
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem5-F#\Problem5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem5-F#\Problem5\obj\x86\Debug\Problem5.exe
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem5-F#\Problem5\obj\x86\Debug\Problem5.pdb

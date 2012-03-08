@@ -1,0 +1,15 @@
+C:\Users\t-jasonq\Desktop\Mesh Sync\Programming\Project Euler\Problem48\Problem48\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\t-jasonq\Desktop\Mesh Sync\Programming\Project Euler\Problem48\Problem48\bin\Debug\Problem48.exe
+C:\Users\t-jasonq\Desktop\Mesh Sync\Programming\Project Euler\Problem48\Problem48\bin\Debug\Problem48.pdb
+C:\Users\t-jasonq\Desktop\Mesh Sync\Programming\Project Euler\Problem48\Problem48\obj\x86\Debug\Problem48.exe
+C:\Users\t-jasonq\Desktop\Mesh Sync\Programming\Project Euler\Problem48\Problem48\obj\x86\Debug\Problem48.pdb
+C:\Users\t-jasonq\Desktop\Mesh Sync\Programming\Project Euler\Problem48-C#\Problem48\obj\x86\Debug\Problem48.exe
+C:\Users\t-jasonq\Desktop\Mesh Sync\Programming\Project Euler\Problem48-C#\Problem48\obj\x86\Debug\Problem48.pdb
+C:\Users\t-jasonq\Desktop\Mesh Sync\Programming\Project Euler\Problem48-C#\Problem48\bin\Debug\Problem48.exe
+C:\Users\t-jasonq\Desktop\Mesh Sync\Programming\Project Euler\Problem48-C#\Problem48\bin\Debug\Problem48.pdb
+C:\Users\t-jasonq\Desktop\Mesh Sync\Programming\Project Euler\Problem48-C#\Problem48\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jason.quinn\Mesh Sync\Mesh\Programming\Project Euler\Problem48-C#\Problem48\obj\x86\Debug\Problem48.exe
+C:\Users\jason.quinn\Mesh Sync\Mesh\Programming\Project Euler\Problem48-C#\Problem48\obj\x86\Debug\Problem48.pdb
+C:\Users\jason.quinn\Mesh Sync\Mesh\Programming\Project Euler\Problem48-C#\Problem48\bin\Debug\Problem48.exe
+C:\Users\jason.quinn\Mesh Sync\Mesh\Programming\Project Euler\Problem48-C#\Problem48\bin\Debug\Problem48.pdb
+C:\Users\jason.quinn\Mesh Sync\Mesh\Programming\Project Euler\Problem48-C#\Problem48\obj\x86\Debug\ResolveAssemblyReference.cache

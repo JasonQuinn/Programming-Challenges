@@ -1,0 +1,57 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="489" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2850" fromTop="27" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2850" fromTop="20" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2850" fromTop="12" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2850" fromTop="27" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2850" fromTop="33" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2850" fromTop="32" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2850" fromTop="20" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2850" fromTop="30" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2035" fromTop="16" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2850" fromTop="43" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2850" fromTop="24" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2850" fromTop="22" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2850" fromTop="37" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2850" fromTop="21" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2850" fromTop="29" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2850" fromTop="36" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2850" fromTop="12" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2850" fromTop="7" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2850" fromTop="21" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2850" fromTop="4" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2850" fromTop="8" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2850" fromTop="29" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2850" fromTop="12" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2850" fromTop="14" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2850" fromTop="43" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2035" fromTop="21" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2035" fromTop="13" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="2035" fromTop="7" />
+      <File id="63DF548A-838A-4704-AFC4-3261E725C619/f:Program.cs" caret="198" fromTop="7" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

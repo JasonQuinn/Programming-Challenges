@@ -1,0 +1,7 @@
+C:\Users\Jason\Desktop\Mesh Sync\Project Euler\Project7\Project7\bin\Debug\Project7.exe
+C:\Users\Jason\Desktop\Mesh Sync\Project Euler\Project7\Project7\bin\Debug\Project7.pdb
+C:\Users\Jason\Desktop\Mesh Sync\Project Euler\Project7\Project7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\Mesh Sync\Project Euler\Project7\Project7\obj\x86\Debug\Project7.exe
+C:\Users\Jason\Desktop\Mesh Sync\Project Euler\Project7\Project7\obj\x86\Debug\Project7.pdb
+D:\Data\Documents\Programming\Project Euler\Problem7-C#\Project7\obj\x86\Debug\Project7.exe
+D:\Data\Documents\Programming\Project Euler\Problem7-C#\Project7\obj\x86\Debug\Project7.pdb

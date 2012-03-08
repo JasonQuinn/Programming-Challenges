@@ -1,0 +1,38 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="0D6B654B-E0B6-4F79-BA56-E67295F01390/f:Program.py" caret="387" fromTop="11" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="0D6B654B-E0B6-4F79-BA56-E67295F01390/f:Program.py" caret="1" fromTop="0" />
+      <File id="0D6B654B-E0B6-4F79-BA56-E67295F01390/f:Program.py" caret="566" fromTop="8" />
+      <File id="0D6B654B-E0B6-4F79-BA56-E67295F01390/f:Program.py" caret="831" fromTop="20" />
+      <File id="0D6B654B-E0B6-4F79-BA56-E67295F01390/f:Program.py" caret="831" fromTop="16" />
+      <File id="0D6B654B-E0B6-4F79-BA56-E67295F01390/f:Program.py" caret="1150" fromTop="29" />
+      <File id="0D6B654B-E0B6-4F79-BA56-E67295F01390/f:Program.py" caret="693" fromTop="7" />
+      <File id="0D6B654B-E0B6-4F79-BA56-E67295F01390/f:Program.py" caret="832" fromTop="11" />
+      <File id="0D6B654B-E0B6-4F79-BA56-E67295F01390/f:Program.py" caret="980" fromTop="19" />
+      <File id="0D6B654B-E0B6-4F79-BA56-E67295F01390/f:Program.py" caret="605" fromTop="2" />
+      <File id="0D6B654B-E0B6-4F79-BA56-E67295F01390/f:Program.py" caret="1050" fromTop="21" />
+      <File id="0D6B654B-E0B6-4F79-BA56-E67295F01390/f:Program.py" caret="1180" fromTop="26" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

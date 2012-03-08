@@ -1,0 +1,12 @@
+C:\Users\Jason\Desktop\Mesh Sync\Programming\Project Euler\Project56\Project56\bin\Debug\Project56.exe
+C:\Users\Jason\Desktop\Mesh Sync\Programming\Project Euler\Project56\Project56\bin\Debug\Project56.pdb
+C:\Users\Jason\Desktop\Mesh Sync\Programming\Project Euler\Project56\Project56\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\Mesh Sync\Programming\Project Euler\Project56\Project56\obj\x86\Debug\Project56.exe
+C:\Users\Jason\Desktop\Mesh Sync\Programming\Project Euler\Project56\Project56\obj\x86\Debug\Project56.pdb
+C:\Users\Jason\Desktop\Mesh Sync\Programming\Project Euler\Problem56\Project56\obj\x86\Debug\Project56.exe
+C:\Users\Jason\Desktop\Mesh Sync\Programming\Project Euler\Problem56\Project56\obj\x86\Debug\Project56.pdb
+C:\Users\t-jasonq\Desktop\Mesh Sync\Programming\Project Euler\Problem56-C#\Project56\obj\x86\Debug\Project56.exe
+C:\Users\t-jasonq\Desktop\Mesh Sync\Programming\Project Euler\Problem56-C#\Project56\obj\x86\Debug\Project56.pdb
+C:\Users\t-jasonq\Desktop\Mesh Sync\Programming\Project Euler\Problem56-C#\Project56\bin\Debug\Project56.exe
+C:\Users\t-jasonq\Desktop\Mesh Sync\Programming\Project Euler\Problem56-C#\Project56\bin\Debug\Project56.pdb
+C:\Users\t-jasonq\Desktop\Mesh Sync\Programming\Project Euler\Problem56-C#\Project56\obj\x86\Debug\ResolveAssemblyReference.cache

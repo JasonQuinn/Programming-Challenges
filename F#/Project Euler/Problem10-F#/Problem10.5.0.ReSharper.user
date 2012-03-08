@@ -1,0 +1,30 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D2A0DE3C-74E7-49EA-9BAA-6743BB7EA3D9/f:Program.fs" caret="485" fromTop="12" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D2A0DE3C-74E7-49EA-9BAA-6743BB7EA3D9/f:Program.fs" caret="744" fromTop="21" />
+      <File id="D2A0DE3C-74E7-49EA-9BAA-6743BB7EA3D9/f:Program.fs" caret="128" fromTop="2" />
+      <File id="D2A0DE3C-74E7-49EA-9BAA-6743BB7EA3D9/f:Program.fs" caret="822" fromTop="23" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

@@ -1,0 +1,10 @@
+C:\Users\Jason\Desktop\Mesh Sync\Project Euler\Problem8\Problem8\bin\Debug\Problem8.exe
+C:\Users\Jason\Desktop\Mesh Sync\Project Euler\Problem8\Problem8\bin\Debug\Problem8.pdb
+C:\Users\Jason\Desktop\Mesh Sync\Project Euler\Problem8\Problem8\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\Mesh Sync\Project Euler\Problem8\Problem8\obj\x86\Debug\Problem8.exe
+C:\Users\Jason\Desktop\Mesh Sync\Project Euler\Problem8\Problem8\obj\x86\Debug\Problem8.pdb
+C:\Users\Jason\Desktop\Mesh Sync\Project Euler\Problem8-C#\Problem8\obj\x86\Debug\Problem8.exe
+C:\Users\Jason\Desktop\Mesh Sync\Project Euler\Problem8-C#\Problem8\obj\x86\Debug\Problem8.pdb
+C:\Users\Jason\Desktop\Mesh Sync\Project Euler\Problem8-C#\Problem8\bin\Debug\Problem8.exe
+C:\Users\Jason\Desktop\Mesh Sync\Project Euler\Problem8-C#\Problem8\bin\Debug\Problem8.pdb
+C:\Users\Jason\Desktop\Mesh Sync\Project Euler\Problem8-C#\Problem8\obj\x86\Debug\ResolveAssemblyReference.cache

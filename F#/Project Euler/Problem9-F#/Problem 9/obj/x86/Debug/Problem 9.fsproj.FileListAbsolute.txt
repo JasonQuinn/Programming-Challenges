@@ -1,0 +1,6 @@
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem 9\Problem 9\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem 9\Problem 9\bin\Debug\Problem_9.XML
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem 9\Problem 9\bin\Debug\Problem_9.exe
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem 9\Problem 9\bin\Debug\Problem_9.pdb
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem 9\Problem 9\obj\x86\Debug\Problem_9.exe
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem 9\Problem 9\obj\x86\Debug\Problem_9.pdb

@@ -1,0 +1,62 @@
+name: Problem17
+version: 0.0.1
+cabal-version: -any
+build-type: Simple
+license: AllRightsReserved
+license-file: ""
+copyright:
+maintainer:
+build-depends: base -any
+stability:
+homepage:
+package-url:
+bug-reports:
+synopsis:
+description: (*) Split a list into two parts; the length of the first part is given.
+             .
+             Do not use any predefined predicates.
+             .
+             Example:
+             .
+             * (split '(a b c d e f g h i k) 3)
+             ( (A B C) (D E F G H I K))
+             Example in Haskell:
+             .
+             *Main> split "abcdefghik" 3
+             ("abc", "defghik")
+category:
+author:
+tested-with:
+data-files:
+data-dir: ""
+extra-source-files:
+extra-tmp-files:
+ 
+executable: Problem17
+main-is: Main.hs
+buildable: True
+build-tools:
+cpp-options:
+cc-options:
+ld-options:
+pkgconfig-depends:
+frameworks:
+c-sources:
+default-language:
+other-languages:
+default-extensions:
+other-extensions:
+extensions:
+extra-libraries:
+extra-lib-dirs:
+includes:
+install-includes:
+include-dirs:
+hs-source-dirs: src
+other-modules:
+ghc-prof-options:
+ghc-shared-options:
+ghc-options:
+hugs-options:
+nhc98-options:
+jhc-options:

@@ -1,0 +1,36 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9E4A2444-2B47-4245-95C4-31E11D3EEDF0/f:Program.cs" caret="985" fromTop="19" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9E4A2444-2B47-4245-95C4-31E11D3EEDF0/f:Program.cs" caret="779" fromTop="10" />
+      <File id="9E4A2444-2B47-4245-95C4-31E11D3EEDF0/f:Program.cs" caret="309" fromTop="4" />
+      <File id="9E4A2444-2B47-4245-95C4-31E11D3EEDF0/f:Program.cs" caret="983" fromTop="19" />
+      <File id="9E4A2444-2B47-4245-95C4-31E11D3EEDF0/f:Program.cs" caret="983" fromTop="28" />
+      <File id="9E4A2444-2B47-4245-95C4-31E11D3EEDF0/f:Program.cs" caret="1676" fromTop="23" />
+      <File id="9E4A2444-2B47-4245-95C4-31E11D3EEDF0/f:Program.cs" caret="881" fromTop="19" />
+      <File id="9E4A2444-2B47-4245-95C4-31E11D3EEDF0/f:Program.cs" caret="972" fromTop="32" />
+      <File id="9E4A2444-2B47-4245-95C4-31E11D3EEDF0/f:Program.cs" caret="881" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

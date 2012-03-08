@@ -1,0 +1,12 @@
+C:\Users\t-jasonq\Desktop\Mesh Sync\Project Euler\Problem20\Problem20\bin\Debug\Problem20.exe
+C:\Users\t-jasonq\Desktop\Mesh Sync\Project Euler\Problem20\Problem20\bin\Debug\Problem20.pdb
+C:\Users\t-jasonq\Desktop\Mesh Sync\Project Euler\Problem20\Problem20\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\t-jasonq\Desktop\Mesh Sync\Project Euler\Problem20\Problem20\obj\x86\Debug\Problem20.exe
+C:\Users\t-jasonq\Desktop\Mesh Sync\Project Euler\Problem20\Problem20\obj\x86\Debug\Problem20.pdb
+C:\Users\t-jasonq\Desktop\Mesh Sync\Project Euler\Problem20-C#\Problem20\obj\x86\Debug\Problem20.exe
+C:\Users\t-jasonq\Desktop\Mesh Sync\Project Euler\Problem20-C#\Problem20\obj\x86\Debug\Problem20.pdb
+C:\Users\t-jasonq\Desktop\Mesh Sync\Project Euler\Problem20-C#\Problem20\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\t-jasonq\Desktop\Mesh Sync\Project Euler\Problem20-C#\Problem20\bin\Debug\Problem20.exe
+C:\Users\t-jasonq\Desktop\Mesh Sync\Project Euler\Problem20-C#\Problem20\bin\Debug\Problem20.pdb
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem20-C#\Problem20\obj\x86\Debug\Problem20.exe
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem20-C#\Problem20\obj\x86\Debug\Problem20.pdb

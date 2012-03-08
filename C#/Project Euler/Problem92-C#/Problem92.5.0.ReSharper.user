@@ -1,0 +1,40 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="CE668E53-2DC0-4A4A-ADCD-061BF04A1413/f:Program.cs" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="CE668E53-2DC0-4A4A-ADCD-061BF04A1413/f:Program.cs" caret="591" fromTop="13" />
+      <File id="CE668E53-2DC0-4A4A-ADCD-061BF04A1413/f:Program.cs" caret="339" fromTop="9" />
+      <File id="CE668E53-2DC0-4A4A-ADCD-061BF04A1413/f:Program.cs" caret="1327" fromTop="28" />
+      <File id="CE668E53-2DC0-4A4A-ADCD-061BF04A1413/f:Program.cs" caret="1994" fromTop="39" />
+      <File id="CE668E53-2DC0-4A4A-ADCD-061BF04A1413/f:Program.cs" caret="1993" fromTop="35" />
+      <File id="CE668E53-2DC0-4A4A-ADCD-061BF04A1413/f:Program.cs" caret="893" fromTop="14" />
+      <File id="CE668E53-2DC0-4A4A-ADCD-061BF04A1413/f:Program.cs" caret="1770" fromTop="32" />
+      <File id="CE668E53-2DC0-4A4A-ADCD-061BF04A1413/f:Program.cs" caret="1277" fromTop="19" />
+      <File id="CE668E53-2DC0-4A4A-ADCD-061BF04A1413/f:Program.cs" caret="1851" fromTop="25" />
+      <File id="CE668E53-2DC0-4A4A-ADCD-061BF04A1413/f:Program.cs" caret="668" fromTop="19" />
+      <File id="CE668E53-2DC0-4A4A-ADCD-061BF04A1413/f:Program.cs" caret="75" fromTop="1" />
+      <File id="CE668E53-2DC0-4A4A-ADCD-061BF04A1413/f:Program.cs" caret="1093" fromTop="31" />
+      <File id="CE668E53-2DC0-4A4A-ADCD-061BF04A1413/f:Program.cs" caret="1641" fromTop="29" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

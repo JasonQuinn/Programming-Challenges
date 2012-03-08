@@ -1,0 +1,65 @@
+name: Problem13
+version: 0.0.1
+cabal-version: -any
+build-type: Simple
+license: AllRightsReserved
+license-file: ""
+copyright:
+maintainer:
+build-depends: base -any, haskell98 -any
+stability:
+homepage:
+package-url:
+bug-reports:
+synopsis:
+description: Run-length encoding of a list (direct solution).
+             .
+             Implement the so-called run-length encoding data compression method directly. I.e. don't explicitly create the sublists containing the duplicates, as in problem 9, but only count them. As in problem P11, simplify the result list by replacing the singleton lists (1 X) by X.
+             .
+             Example:
+             .
+             * (encode-direct '(a a a a b c c a a d e e e e))
+             ((4 A) B (2 C) (2 A) D (4 E))
+             Example in Haskell:
+             .
+             P13> encodeDirect "aaaabccaadeeee"
+             [Multiple 4 'a',Single 'b',Multiple 2 'c',
+              Multiple 2 'a',Single 'd',Multiple 4 'e']
+             .
+             .
+category:
+author:
+tested-with:
+data-files:
+data-dir: ""
+extra-source-files:
+extra-tmp-files:
+ 
+executable: Problem13
+main-is: Main.hs
+buildable: True
+build-tools:
+cpp-options:
+cc-options:
+ld-options:
+pkgconfig-depends:
+frameworks:
+c-sources:
+default-language:
+other-languages:
+default-extensions:
+other-extensions:
+extensions:
+extra-libraries:
+extra-lib-dirs:
+includes:
+install-includes:
+include-dirs:
+hs-source-dirs: src
+other-modules:
+ghc-prof-options:
+ghc-shared-options:
+ghc-options:
+hugs-options:
+nhc98-options:
+jhc-options:

@@ -1,0 +1,5 @@
+C:\Users\Jason\Desktop\Mesh Sync\Programming\Project Euler\Problem31\Problem31\bin\Debug\Problem31.exe
+C:\Users\Jason\Desktop\Mesh Sync\Programming\Project Euler\Problem31\Problem31\bin\Debug\Problem31.pdb
+C:\Users\Jason\Desktop\Mesh Sync\Programming\Project Euler\Problem31\Problem31\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\Mesh Sync\Programming\Project Euler\Problem31\Problem31\obj\x86\Debug\Problem31.exe
+C:\Users\Jason\Desktop\Mesh Sync\Programming\Project Euler\Problem31\Problem31\obj\x86\Debug\Problem31.pdb

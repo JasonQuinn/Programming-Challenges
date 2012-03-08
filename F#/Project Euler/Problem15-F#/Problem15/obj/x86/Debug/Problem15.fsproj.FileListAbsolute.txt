@@ -1,0 +1,12 @@
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem15\Problem15\bin\Debug\Problem15.XML
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem15\Problem15\bin\Debug\Problem15.exe
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem15\Problem15\bin\Debug\Problem15.pdb
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem15\Problem15\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem15\Problem15\obj\x86\Debug\Problem15.exe
+C:\Users\Jason\Desktop\Live Sync\Programming\Project Euler\Problem15\Problem15\obj\x86\Debug\Problem15.pdb
+D:\Data\Documents\Mesh\Programming\Project Euler\Problem15-F#\Problem15\bin\Debug\Problem15.XML
+D:\Data\Documents\Mesh\Programming\Project Euler\Problem15-F#\Problem15\bin\Debug\Problem15.exe
+D:\Data\Documents\Mesh\Programming\Project Euler\Problem15-F#\Problem15\bin\Debug\Problem15.pdb
+D:\Data\Documents\Mesh\Programming\Project Euler\Problem15-F#\Problem15\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Data\Documents\Mesh\Programming\Project Euler\Problem15-F#\Problem15\obj\x86\Debug\Problem15.exe
+D:\Data\Documents\Mesh\Programming\Project Euler\Problem15-F#\Problem15\obj\x86\Debug\Problem15.pdb

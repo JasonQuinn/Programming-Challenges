@@ -1,0 +1,35 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="56958AE9-2651-4D9D-B0BE-7F86536ECA8C/f:Program.fs" caret="455" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="56958AE9-2651-4D9D-B0BE-7F86536ECA8C/f:Program.fs" caret="3" fromTop="0" />
+      <File id="56958AE9-2651-4D9D-B0BE-7F86536ECA8C/f:Program.fs" caret="461" fromTop="14" />
+      <File id="56958AE9-2651-4D9D-B0BE-7F86536ECA8C/f:Program.fs" caret="679" fromTop="19" />
+      <File id="56958AE9-2651-4D9D-B0BE-7F86536ECA8C/f:Program.fs" caret="413" fromTop="16" />
+      <File id="56958AE9-2651-4D9D-B0BE-7F86536ECA8C/f:Program.fs" caret="463" fromTop="17" />
+      <File id="56958AE9-2651-4D9D-B0BE-7F86536ECA8C/f:Program.fs" caret="594" fromTop="21" />
+      <File id="56958AE9-2651-4D9D-B0BE-7F86536ECA8C/f:Program.fs" caret="413" fromTop="12" />
+      <File id="56958AE9-2651-4D9D-B0BE-7F86536ECA8C/f:Program.fs" caret="825" fromTop="25" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

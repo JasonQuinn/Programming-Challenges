@@ -1,0 +1,15 @@
+C:\Users\t-jasonq\Desktop\Mesh Sync\Programming\Project Euler\Problem67\Problem67\bin\Debug\Problem67.exe
+C:\Users\t-jasonq\Desktop\Mesh Sync\Programming\Project Euler\Problem67\Problem67\bin\Debug\Problem67.pdb
+C:\Users\t-jasonq\Desktop\Mesh Sync\Programming\Project Euler\Problem67\Problem67\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\t-jasonq\Desktop\Mesh Sync\Programming\Project Euler\Problem67\Problem67\obj\x86\Debug\Problem67.exe
+C:\Users\t-jasonq\Desktop\Mesh Sync\Programming\Project Euler\Problem67\Problem67\obj\x86\Debug\Problem67.pdb
+C:\Users\t-jasonq\Desktop\Mesh Sync\Programming\Project Euler\Problem67-C#\Problem67\obj\x86\Debug\Problem67.exe
+C:\Users\t-jasonq\Desktop\Mesh Sync\Programming\Project Euler\Problem67-C#\Problem67\obj\x86\Debug\Problem67.pdb
+C:\Users\t-jasonq\Desktop\Mesh Sync\Programming\Project Euler\Problem67-C#\Problem67\bin\Debug\Problem67.exe
+C:\Users\t-jasonq\Desktop\Mesh Sync\Programming\Project Euler\Problem67-C#\Problem67\bin\Debug\Problem67.pdb
+C:\Users\t-jasonq\Desktop\Mesh Sync\Programming\Project Euler\Problem67-C#\Problem67\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\Mesh Sync\Programming\Project Euler\Problem67-C#\Problem67\obj\x86\Debug\Problem67.exe
+C:\Users\Jason\Desktop\Mesh Sync\Programming\Project Euler\Problem67-C#\Problem67\obj\x86\Debug\Problem67.pdb
+C:\Users\Jason\Desktop\Mesh Sync\Programming\Project Euler\Problem67-C#\Problem67\bin\Debug\Problem67.exe
+C:\Users\Jason\Desktop\Mesh Sync\Programming\Project Euler\Problem67-C#\Problem67\bin\Debug\Problem67.pdb
+C:\Users\Jason\Desktop\Mesh Sync\Programming\Project Euler\Problem67-C#\Problem67\obj\x86\Debug\ResolveAssemblyReference.cache

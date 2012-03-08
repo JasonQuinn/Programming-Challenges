@@ -1,0 +1,33 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="76556D8B-B661-41F1-B6C2-A346F4F5579D/f:Program.py" caret="891" fromTop="12" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="76556D8B-B661-41F1-B6C2-A346F4F5579D/f:Program.py" caret="40" fromTop="1" />
+      <File id="76556D8B-B661-41F1-B6C2-A346F4F5579D/f:Program.py" caret="978" fromTop="21" />
+      <File id="76556D8B-B661-41F1-B6C2-A346F4F5579D/f:Program.py" caret="978" fromTop="25" />
+      <File id="76556D8B-B661-41F1-B6C2-A346F4F5579D/f:Program.py" caret="978" fromTop="17" />
+      <File id="76556D8B-B661-41F1-B6C2-A346F4F5579D/f:Program.py" caret="853" fromTop="10" />
+      <File id="76556D8B-B661-41F1-B6C2-A346F4F5579D/f:Program.py" caret="950" fromTop="16" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

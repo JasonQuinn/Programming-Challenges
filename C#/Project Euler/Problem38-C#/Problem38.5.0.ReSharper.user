@@ -1,0 +1,37 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="EFC9CA2A-D527-479A-8807-641B8365CFC9/f:Program.cs" caret="1285" fromTop="32" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="EFC9CA2A-D527-479A-8807-641B8365CFC9/f:Program.cs" caret="1299" fromTop="10" />
+      <File id="EFC9CA2A-D527-479A-8807-641B8365CFC9/f:Program.cs" caret="1971" fromTop="21" />
+      <File id="EFC9CA2A-D527-479A-8807-641B8365CFC9/f:Program.cs" caret="1972" fromTop="25" />
+      <File id="EFC9CA2A-D527-479A-8807-641B8365CFC9/f:Program.cs" caret="2073" fromTop="28" />
+      <File id="EFC9CA2A-D527-479A-8807-641B8365CFC9/f:Program.cs" caret="1495" fromTop="18" />
+      <File id="EFC9CA2A-D527-479A-8807-641B8365CFC9/f:Program.cs" caret="1649" fromTop="28" />
+      <File id="EFC9CA2A-D527-479A-8807-641B8365CFC9/f:Program.cs" caret="95" fromTop="1" />
+      <File id="EFC9CA2A-D527-479A-8807-641B8365CFC9/f:Program.cs" caret="950" fromTop="23" />
+      <File id="EFC9CA2A-D527-479A-8807-641B8365CFC9/f:Program.cs" caret="1409" fromTop="36" />
+      <File id="EFC9CA2A-D527-479A-8807-641B8365CFC9/f:Program.cs" caret="786" fromTop="16" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

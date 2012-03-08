@@ -1,0 +1,5 @@
+D:\Data\Documents\Mesh\Programming\Project Euler\Problem71-C#\bin\Debug\Problem71.exe
+D:\Data\Documents\Mesh\Programming\Project Euler\Problem71-C#\bin\Debug\Problem71.pdb
+D:\Data\Documents\Mesh\Programming\Project Euler\Problem71-C#\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Data\Documents\Mesh\Programming\Project Euler\Problem71-C#\obj\x86\Debug\Problem71.exe
+D:\Data\Documents\Mesh\Programming\Project Euler\Problem71-C#\obj\x86\Debug\Problem71.pdb

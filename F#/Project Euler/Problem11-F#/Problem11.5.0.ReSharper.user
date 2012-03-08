@@ -1,0 +1,46 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="E9B82392-2A3C-4D12-80E2-7C47D1F6816F/f:Program.fs" caret="5381" fromTop="73" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="E9B82392-2A3C-4D12-80E2-7C47D1F6816F/f:Program.fs" caret="0" fromTop="11" />
+      <File id="E9B82392-2A3C-4D12-80E2-7C47D1F6816F/f:Program.fs" caret="0" fromTop="3" />
+      <File id="E9B82392-2A3C-4D12-80E2-7C47D1F6816F/f:Program.fs" caret="0" fromTop="3" />
+      <File id="E9B82392-2A3C-4D12-80E2-7C47D1F6816F/f:Program.fs" caret="0" fromTop="16" />
+      <File id="E9B82392-2A3C-4D12-80E2-7C47D1F6816F/f:Program.fs" caret="107" fromTop="1" />
+      <File id="E9B82392-2A3C-4D12-80E2-7C47D1F6816F/f:Program.fs" caret="4378" fromTop="47" />
+      <File id="E9B82392-2A3C-4D12-80E2-7C47D1F6816F/f:Program.fs" caret="4379" fromTop="45" />
+      <File id="E9B82392-2A3C-4D12-80E2-7C47D1F6816F/f:Program.fs" caret="4377" fromTop="45" />
+      <File id="E9B82392-2A3C-4D12-80E2-7C47D1F6816F/f:Program.fs" caret="4377" fromTop="26" />
+      <File id="E9B82392-2A3C-4D12-80E2-7C47D1F6816F/f:Program.fs" caret="4377" fromTop="26" />
+      <File id="E9B82392-2A3C-4D12-80E2-7C47D1F6816F/f:Program.fs" caret="1964" fromTop="26" />
+      <File id="E9B82392-2A3C-4D12-80E2-7C47D1F6816F/f:Program.fs" caret="1818" fromTop="3" />
+      <File id="E9B82392-2A3C-4D12-80E2-7C47D1F6816F/f:Program.fs" caret="4448" fromTop="14" />
+      <File id="E9B82392-2A3C-4D12-80E2-7C47D1F6816F/f:Program.fs" caret="4939" fromTop="26" />
+      <File id="E9B82392-2A3C-4D12-80E2-7C47D1F6816F/f:Program.fs" caret="5540" fromTop="33" />
+      <File id="E9B82392-2A3C-4D12-80E2-7C47D1F6816F/f:Program.fs" caret="5901" fromTop="37" />
+      <File id="E9B82392-2A3C-4D12-80E2-7C47D1F6816F/f:Program.fs" caret="6363" fromTop="47" />
+      <File id="E9B82392-2A3C-4D12-80E2-7C47D1F6816F/f:Program.fs" caret="6046" fromTop="29" />
+      <File id="E9B82392-2A3C-4D12-80E2-7C47D1F6816F/f:Program.fs" caret="6408" fromTop="42" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

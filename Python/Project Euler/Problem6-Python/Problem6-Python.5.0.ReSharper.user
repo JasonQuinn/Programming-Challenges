@@ -1,0 +1,30 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B0F39E57-1EC3-4E42-A296-87123F2B10E8/f:Program.py" caret="422" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B0F39E57-1EC3-4E42-A296-87123F2B10E8/f:Program.py" caret="22" fromTop="0" />
+      <File id="B0F39E57-1EC3-4E42-A296-87123F2B10E8/f:Program.py" caret="422" fromTop="14" />
+      <File id="B0F39E57-1EC3-4E42-A296-87123F2B10E8/f:Program.py" caret="402" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

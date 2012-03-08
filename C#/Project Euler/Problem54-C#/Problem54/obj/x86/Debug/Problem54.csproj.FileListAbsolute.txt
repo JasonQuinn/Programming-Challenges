@@ -1,0 +1,7 @@
+D:\Data\Documents\Mesh\Programming\Project Euler\Problem54-C#\Problem54\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Data\Documents\Mesh\Programming\Project Euler\Problem54-C#\Problem54\bin\Debug\Problem54.exe
+D:\Data\Documents\Mesh\Programming\Project Euler\Problem54-C#\Problem54\bin\Debug\Problem54.pdb
+D:\Data\Documents\Mesh\Programming\Project Euler\Problem54-C#\Problem54\obj\x86\Debug\Problem54.exe
+D:\Data\Documents\Mesh\Programming\Project Euler\Problem54-C#\Problem54\obj\x86\Debug\Problem54.pdb
+C:\Users\jason.quinn\Mesh Sync\Mesh\Programming\Project Euler\Problem54-C#\Problem54\obj\x86\Debug\Problem54.exe
+C:\Users\jason.quinn\Mesh Sync\Mesh\Programming\Project Euler\Problem54-C#\Problem54\obj\x86\Debug\Problem54.pdb

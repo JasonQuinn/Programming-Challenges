@@ -1,0 +1,63 @@
+name: Problem8
+version: 0.0.1
+cabal-version: -any
+build-type: Simple
+license: AllRightsReserved
+license-file: ""
+copyright:
+maintainer:
+build-depends: base -any, haskell98 -any, haskell98 -any
+stability:
+homepage:
+package-url:
+bug-reports:
+synopsis:
+description: Problem 8
+             (**) Eliminate consecutive duplicates of list elements.
+             .
+             If a list contains repeated elements they should be replaced with a single copy of the element. The order of the elements should not be changed.
+             .
+             Example:
+             .
+             * (compress '(a a a a b c c a a d e e e e))
+             (A B C A D E)
+             Example in Haskell:
+             .
+             > compress ["a","a","a","a","b","c","c","a","a","d","e","e","e","e"]
+             ["a","b","c","a","d","e"]
+category:
+author:
+tested-with:
+data-files:
+data-dir: ""
+extra-source-files:
+extra-tmp-files:
+ 
+executable: Problem8
+main-is: Main.hs
+buildable: True
+build-tools:
+cpp-options:
+cc-options:
+ld-options:
+pkgconfig-depends:
+frameworks:
+c-sources:
+default-language:
+other-languages:
+default-extensions:
+other-extensions:
+extensions:
+extra-libraries:
+extra-lib-dirs:
+includes:
+install-includes:
+include-dirs:
+hs-source-dirs: src
+other-modules:
+ghc-prof-options:
+ghc-shared-options:
+ghc-options:
+hugs-options:
+nhc98-options:
+jhc-options:

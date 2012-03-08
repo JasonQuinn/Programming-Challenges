@@ -1,0 +1,44 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="C1D05A4E-8218-46D2-BDBF-1749A102D6E1/f:Program.py" caret="91" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="C1D05A4E-8218-46D2-BDBF-1749A102D6E1/f:Program.py" caret="4462" fromTop="1" />
+      <File id="C1D05A4E-8218-46D2-BDBF-1749A102D6E1/f:Program.py" caret="4542" fromTop="20" />
+      <File id="C1D05A4E-8218-46D2-BDBF-1749A102D6E1/f:Program.py" caret="3037" fromTop="4" />
+      <File id="C1D05A4E-8218-46D2-BDBF-1749A102D6E1/f:Program.py" caret="84" fromTop="0" />
+      <File id="C1D05A4E-8218-46D2-BDBF-1749A102D6E1/f:Program.py" caret="2517" fromTop="26" />
+      <File id="C1D05A4E-8218-46D2-BDBF-1749A102D6E1/f:Program.py" caret="2551" fromTop="22" />
+      <File id="C1D05A4E-8218-46D2-BDBF-1749A102D6E1/f:Program.py" caret="1535" fromTop="12" />
+      <File id="C1D05A4E-8218-46D2-BDBF-1749A102D6E1/f:Program.py" caret="4697" fromTop="20" />
+      <File id="C1D05A4E-8218-46D2-BDBF-1749A102D6E1/f:Program.py" caret="2517" fromTop="13" />
+      <File id="C1D05A4E-8218-46D2-BDBF-1749A102D6E1/f:Program.py" caret="2769" fromTop="10" />
+      <File id="C1D05A4E-8218-46D2-BDBF-1749A102D6E1/f:Program.py" caret="2062" fromTop="21" />
+      <File id="C1D05A4E-8218-46D2-BDBF-1749A102D6E1/f:Program.py" caret="2377" fromTop="29" />
+      <File id="C1D05A4E-8218-46D2-BDBF-1749A102D6E1/f:Program.py" caret="1376" fromTop="9" />
+      <File id="C1D05A4E-8218-46D2-BDBF-1749A102D6E1/f:Program.py" caret="4678" fromTop="15" />
+      <File id="C1D05A4E-8218-46D2-BDBF-1749A102D6E1/f:Program.py" caret="1835" fromTop="25" />
+      <File id="C1D05A4E-8218-46D2-BDBF-1749A102D6E1/f:Program.py" caret="1649" fromTop="21" />
+      <File id="C1D05A4E-8218-46D2-BDBF-1749A102D6E1/f:Program.py" caret="2521" fromTop="25" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

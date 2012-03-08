@@ -1,0 +1,271 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:poker.txt" caret="0" fromTop="0" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:Program.cs" caret="561" fromTop="20" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:Card.cs" caret="316" fromTop="7" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:PokerHands.cs" caret="6295" fromTop="26" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:Program.cs" caret="2865" fromTop="27" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:Program.cs" caret="2865" fromTop="38" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:Card.cs" caret="750" fromTop="10" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:Card.cs" caret="750" fromTop="17" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:PokerHands.cs" caret="2635" fromTop="37" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:PokerHands.cs" caret="7182" fromTop="8" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:PokerHands.cs" caret="7311" fromTop="12" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:PokerHands.cs" caret="6000" fromTop="0" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:PokerHands.cs" caret="3864" fromTop="0" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:PokerHands.cs" caret="3664" fromTop="33" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:PokerHands.cs" caret="3223" fromTop="16" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:Card.cs" caret="3546" fromTop="39" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:Program.cs" caret="1084" fromTop="31" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:Program.cs" caret="2910" fromTop="42" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:Program.cs" caret="2415" fromTop="36" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:Program.cs" caret="1954" fromTop="25" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:Program.cs" caret="13" fromTop="0" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:PokerHands.cs" caret="0" fromTop="0" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:PokerHands.cs" caret="795" fromTop="23" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:PokerHands.cs" caret="8414" fromTop="23" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:Program.cs" caret="283" fromTop="14" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:Program.cs" caret="2939" fromTop="36" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:PokerHands.cs" caret="375" fromTop="4" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:PokerHands.cs" caret="1898" fromTop="19" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:PokerHands.cs" caret="1498" fromTop="7" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:Card.cs" caret="3546" fromTop="15" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:Card.cs" caret="748" fromTop="29" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:Card.cs" caret="3680" fromTop="31" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:Card.cs" caret="2964" fromTop="22" />
+      <File id="A3642504-44B5-4F61-B02C-C7771DE6BD43/f:PokerHands.cs" caret="6295" fromTop="26" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="enum" priority="154" />
+      <Item value="public" priority="380" />
+      <Item value="CardSuit`0" priority="31" />
+      <Item value="Card`0" priority="735" />
+      <Item value="string" priority="154" />
+      <Item value="if" priority="767" />
+      <Item value="cardString" priority="95" />
+      <Item value="var" priority="735" />
+      <Item value="cardCharArray" priority="63" />
+      <Item value="switch" priority="63" />
+      <Item value="case" priority="95" />
+      <Item value="CardType" priority="31" />
+      <Item value="Two" priority="16" />
+      <Item value="break" priority="63" />
+      <Item value="else" priority="191" />
+      <Item value="CardSuit" priority="63" />
+      <Item value="internal" priority="30" />
+      <Item value="PokerHand`0" priority="127" />
+      <Item value="hand" priority="1118" />
+      <Item value="Count`1" priority="242" />
+      <Item value="throw" priority="127" />
+      <Item value="new" priority="479" />
+      <Item value="InvalidDataException" priority="57" />
+      <Item value="Hand" priority="31" />
+      <Item value="private" priority="191" />
+      <Item value="bool" priority="63" />
+      <Item value="Contains`1" priority="26" />
+      <Item value="ua" priority="31" />
+      <Item value="u" priority="575" />
+      <Item value="CardValue`0" priority="415" />
+      <Item value="Any`1" priority="26" />
+      <Item value="static" priority="127" />
+      <Item value="foreach" priority="63" />
+      <Item value="NotImplementedException`0" priority="31" />
+      <Item value="First`1" priority="215" />
+      <Item value="OrderBy`2" priority="26" />
+      <Item value="return" priority="735" />
+      <Item value="orderedCards" priority="95" />
+      <Item value="Sum`1" priority="26" />
+      <Item value="sum" priority="31" />
+      <Item value="straightSum" priority="31" />
+      <Item value="out" priority="415" />
+      <Item value="highCard" priority="31" />
+      <Item value="CrossAppDomainDelegate`0" priority="31" />
+      <Item value="true" priority="95" />
+      <Item value="card1" priority="95" />
+      <Item value="card" priority="127" />
+      <Item value="threeOfAkind" priority="63" />
+      <Item value="false" priority="63" />
+      <Item value="Where`1" priority="26" />
+      <Item value="card2" priority="63" />
+      <Item value="IsTwoPairs`0" priority="31" />
+      <Item value="null" priority="191" />
+      <Item value="pair" priority="31" />
+      <Item value="for" priority="95" />
+      <Item value="Length" priority="53" />
+      <Item value="PossiblePokerHands`0" priority="319" />
+      <Item value="IsRoyalFlush`0" priority="63" />
+      <Item value="class" priority="30" />
+      <Item value="_resultCards" priority="63" />
+      <Item value="value" priority="31" />
+      <Item value="OtherCards" priority="95" />
+      <Item value="resultType" priority="63" />
+      <Item value="resultCards" priority="159" />
+      <Item value="Except`1" priority="26" />
+      <Item value="Result" priority="144" />
+      <Item value="Select`2" priority="134" />
+      <Item value="IEnumerable" priority="117" />
+      <Item value="NewsStyleUriParser`0" priority="31" />
+      <Item value="CardValue" priority="57" />
+      <Item value="Skip`1" priority="53" />
+      <Item value="void" priority="63" />
+      <Item value="int" priority="31" />
+      <Item value="List" priority="28" />
+      <Item value="newHand" priority="31" />
+      <Item value="cardValue" priority="63" />
+      <Item value="newHandValues" priority="31" />
+      <Item value="IList" priority="31" />
+      <Item value="IsOnePair`0" priority="63" />
+      <Item value="pair1" priority="95" />
+      <Item value="pair2" priority="63" />
+      <Item value="Concat`1" priority="26" />
+      <Item value="i" priority="31" />
+      <Item value="IsThreeOfAKind`0" priority="31" />
+      <Item value="IsFlush`0" priority="31" />
+      <Item value="ElementAt`1" priority="80" />
+      <Item value="IsStraightFlush`0" priority="31" />
+      <Item value="straightFlush" priority="63" />
+      <Item value="result" priority="127" />
+      <Item value="Stream`0" priority="31" />
+      <Item value="ASCIIEncoding`0" priority="31" />
+      <Item value="handString" priority="159" />
+      <Item value="handStringArray" priority="31" />
+      <Item value="Card" priority="28" />
+      <Item value="PokerHand" priority="57" />
+      <Item value="Void`0" priority="31" />
+      <Item value="hand1" priority="63" />
+      <Item value="hand1Result" priority="158" />
+      <Item value="hand2Result" priority="63" />
+      <Item value="Player`0" priority="191" />
+      <Item value="Exception" priority="57" />
+      <Item value="CompareHands`0" priority="63" />
+      <Item value="hand2" priority="31" />
+      <Item value="Take`1" priority="26" />
+      <Item value="TextReader`0" priority="31" />
+      <Item value="while" priority="31" />
+      <Item value="do" priority="31" />
+      <Item value="tr" priority="31" />
+      <Item value="line" priority="31" />
+      <Item value="winner" priority="31" />
+      <Item value="player1Count" priority="63" />
+      <Item value="player2Count" priority="31" />
+      <Item value="Console`0" priority="90" />
+      <Item value="const" priority="31" />
+      <Item value="straight" priority="31" />
+      <Item value="timer" priority="95" />
+      <Item value="default" priority="31" />
+      <Item value="thr" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToArray`1" priority="26" />
+      <Item value="Length" priority="53" />
+      <Item value="ElementAt`1" priority="26" />
+      <Item value="Substring`0" priority="53" />
+      <Item value="Split`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Problem54.CardValue">
+      <Item value="Three" priority="27" />
+      <Item value="Four" priority="27" />
+      <Item value="Five" priority="27" />
+      <Item value="Jack" priority="27" />
+      <Item value="Queen" priority="27" />
+      <Item value="King" priority="27" />
+      <Item value="Ace" priority="54" />
+      <Item value="Ten" priority="26" />
+      <Item value="Two" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Char">
+      <Item value="ToString`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Problem54.CardSuit">
+      <Item value="Clubs" priority="26" />
+      <Item value="Hearts" priority="27" />
+      <Item value="Spades" priority="27" />
+      <Item value="Diamonds" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Problem54.Card">
+      <Item value="CardType" priority="701" />
+      <Item value="CardSuit" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IOrderedEnumerable`1">
+      <Item value="ToArray`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToArray`1" priority="161" />
+      <Item value="Take`1" priority="26" />
+      <Item value="Select`2" priority="53" />
+      <Item value="Count`1" priority="49" />
+      <Item value="ElementAt`1" priority="53" />
+      <Item value="OrderByDescending`2" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Problem54.PossiblePokerHands">
+      <Item value="RoyalFlush" priority="53" />
+      <Item value="HighCard" priority="26" />
+      <Item value="OnePair" priority="53" />
+      <Item value="TwoPairs" priority="26" />
+      <Item value="ThreeOfAKind" priority="27" />
+      <Item value="Straight" priority="26" />
+      <Item value="Flush" priority="26" />
+      <Item value="FullHouse" priority="27" />
+      <Item value="StraightFlush" priority="27" />
+      <Item value="FourOfAKind" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Remove`0" priority="26" />
+      <Item value="First`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Problem54.Result">
+      <Item value="ResultCards" priority="242" />
+      <Item value="ResultType" priority="53" />
+      <Item value="OtherCards" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Problem54.PokerHand">
+      <Item value="RemoveFromHand`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Problem54.PokerHand">
+      <Item value="HighestHand`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Problem54.Player">
+      <Item value="Player1" priority="107" />
+      <Item value="Player2" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.TextReader">
+      <Item value="ReadLine`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="53" />
+      <Item value="ReadLine`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.Stopwatch">
+      <Item value="Start`0" priority="26" />
+      <Item value="Stop`0" priority="26" />
+      <Item value="Elapsed" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

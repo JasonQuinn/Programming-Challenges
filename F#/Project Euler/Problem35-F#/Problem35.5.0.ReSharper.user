@@ -1,0 +1,40 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="43059E91-A81B-4F15-9F19-6661CE98B3C1/f:Program.fs" caret="627" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="43059E91-A81B-4F15-9F19-6661CE98B3C1/f:Program.fs" caret="3" fromTop="0" />
+      <File id="43059E91-A81B-4F15-9F19-6661CE98B3C1/f:Program.fs" caret="305" fromTop="5" />
+      <File id="43059E91-A81B-4F15-9F19-6661CE98B3C1/f:Program.fs" caret="1913" fromTop="34" />
+      <File id="43059E91-A81B-4F15-9F19-6661CE98B3C1/f:Program.fs" caret="338" fromTop="2" />
+      <File id="43059E91-A81B-4F15-9F19-6661CE98B3C1/f:Program.fs" caret="1913" fromTop="29" />
+      <File id="43059E91-A81B-4F15-9F19-6661CE98B3C1/f:Program.fs" caret="1913" fromTop="10" />
+      <File id="43059E91-A81B-4F15-9F19-6661CE98B3C1/f:Program.fs" caret="1913" fromTop="27" />
+      <File id="43059E91-A81B-4F15-9F19-6661CE98B3C1/f:Program.fs" caret="1913" fromTop="31" />
+      <File id="43059E91-A81B-4F15-9F19-6661CE98B3C1/f:Program.fs" caret="1913" fromTop="21" />
+      <File id="43059E91-A81B-4F15-9F19-6661CE98B3C1/f:Program.fs" caret="1931" fromTop="38" />
+      <File id="43059E91-A81B-4F15-9F19-6661CE98B3C1/f:Program.fs" caret="1933" fromTop="47" />
+      <File id="43059E91-A81B-4F15-9F19-6661CE98B3C1/f:Program.fs" caret="1931" fromTop="37" />
+      <File id="43059E91-A81B-4F15-9F19-6661CE98B3C1/f:Program.fs" caret="1931" fromTop="35" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

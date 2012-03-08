@@ -1,0 +1,62 @@
+name: Problem9
+version: 0.0.1
+cabal-version: -any
+build-type: Simple
+license: AllRightsReserved
+license-file: ""
+copyright:
+maintainer:
+build-depends: base -any, haskell98 -any
+stability:
+homepage:
+package-url:
+bug-reports:
+synopsis:
+description: Problem 9
+             (**) Pack consecutive duplicates of list elements into sublists. If a list contains repeated elements they should be placed in separate sublists.
+             .
+             Example:
+             .
+             * (pack '(a a a a b c c a a d e e e e))
+             ((A A A A) (B) (C C) (A A) (D) (E E E E))
+             Example in Haskell:
+             .
+             *Main> pack ['a', 'a', 'a', 'a', 'b', 'c', 'c', 'a',
+             'a', 'd', 'e', 'e', 'e', 'e']
+             ["aaaa","b","cc","aa","d","eeee"]
+category:
+author:
+tested-with:
+data-files:
+data-dir: ""
+extra-source-files:
+extra-tmp-files:
+ 
+executable: Problem9
+main-is: Main.hs
+buildable: True
+build-tools:
+cpp-options:
+cc-options:
+ld-options:
+pkgconfig-depends:
+frameworks:
+c-sources:
+default-language:
+other-languages:
+default-extensions:
+other-extensions:
+extensions:
+extra-libraries:
+extra-lib-dirs:
+includes:
+install-includes:
+include-dirs:
+hs-source-dirs: src
+other-modules:
+ghc-prof-options:
+ghc-shared-options:
+ghc-options:
+hugs-options:
+nhc98-options:
+jhc-options:

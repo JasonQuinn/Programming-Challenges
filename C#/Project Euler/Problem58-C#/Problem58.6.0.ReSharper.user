@@ -1,0 +1,55 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="2159" fromTop="19" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="2158" fromTop="16" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="2140" fromTop="33" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="122" fromTop="1" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="2640" fromTop="23" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="2640" fromTop="23" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="2640" fromTop="32" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="2640" fromTop="22" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="2640" fromTop="18" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="1256" fromTop="26" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="2293" fromTop="28" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="2634" fromTop="45" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="2634" fromTop="26" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="2634" fromTop="47" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="2634" fromTop="38" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="2634" fromTop="19" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="2634" fromTop="29" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="2634" fromTop="47" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="2634" fromTop="27" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="2634" fromTop="36" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="2634" fromTop="30" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="2634" fromTop="16" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="2634" fromTop="16" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="2634" fromTop="31" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="2643" fromTop="5" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="1889" fromTop="35" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="1774" fromTop="31" />
+      <File id="2EABE685-43D7-40DE-A8B7-75AC01207FFD/f:Program.cs" caret="1659" fromTop="23" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

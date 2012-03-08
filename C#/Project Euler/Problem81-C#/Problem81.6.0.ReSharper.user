@@ -1,0 +1,126 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="1DB9DB72-3E1C-41AA-8908-5338FBB67EBA/f:matrix.txt" caret="5183" fromTop="13" />
+      <File id="1DB9DB72-3E1C-41AA-8908-5338FBB67EBA/f:Program.cs" caret="702" fromTop="25" />
+      <File id="1DB9DB72-3E1C-41AA-8908-5338FBB67EBA/f:Matrix.cs" caret="1195" fromTop="33" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="1DB9DB72-3E1C-41AA-8908-5338FBB67EBA/f:Matrix.cs" caret="1194" fromTop="26" />
+      <File id="1DB9DB72-3E1C-41AA-8908-5338FBB67EBA/f:Matrix.cs" caret="1194" fromTop="26" />
+      <File id="1DB9DB72-3E1C-41AA-8908-5338FBB67EBA/f:Program.cs" caret="627" fromTop="13" />
+      <File id="1DB9DB72-3E1C-41AA-8908-5338FBB67EBA/f:Matrix.cs" caret="1272" fromTop="42" />
+      <File id="1DB9DB72-3E1C-41AA-8908-5338FBB67EBA/f:Program.cs" caret="908" fromTop="28" />
+      <File id="1DB9DB72-3E1C-41AA-8908-5338FBB67EBA/f:Program.cs" caret="662" fromTop="25" />
+      <File id="1DB9DB72-3E1C-41AA-8908-5338FBB67EBA/f:Program.cs" caret="627" fromTop="14" />
+      <File id="1DB9DB72-3E1C-41AA-8908-5338FBB67EBA/f:Program.cs" caret="324" fromTop="14" />
+      <File id="1DB9DB72-3E1C-41AA-8908-5338FBB67EBA/f:Program.cs" caret="873" fromTop="29" />
+      <File id="1DB9DB72-3E1C-41AA-8908-5338FBB67EBA/f:Matrix.cs" caret="1028" fromTop="30" />
+      <File id="1DB9DB72-3E1C-41AA-8908-5338FBB67EBA/f:Matrix.cs" caret="722" fromTop="23" />
+      <File id="1DB9DB72-3E1C-41AA-8908-5338FBB67EBA/f:Matrix.cs" caret="226" fromTop="8" />
+      <File id="1DB9DB72-3E1C-41AA-8908-5338FBB67EBA/f:Matrix.cs" caret="1195" fromTop="39" />
+      <File id="1DB9DB72-3E1C-41AA-8908-5338FBB67EBA/f:Matrix.cs" caret="360" fromTop="12" />
+      <File id="1DB9DB72-3E1C-41AA-8908-5338FBB67EBA/f:Matrix.cs" caret="1195" fromTop="39" />
+      <File id="1DB9DB72-3E1C-41AA-8908-5338FBB67EBA/f:Matrix.cs" caret="1195" fromTop="33" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="95" />
+      <Item value="Matrix`0" priority="95" />
+      <Item value="GetHashCode`0" priority="31" />
+      <Item value="AppDomainSetup`0" priority="31" />
+      <Item value="int" priority="156" />
+      <Item value="private" priority="32" />
+      <Item value="Matrix" priority="60" />
+      <Item value="matrix" priority="63" />
+      <Item value="for" priority="159" />
+      <Item value="IntMatrix" priority="251" />
+      <Item value="Length" priority="161" />
+      <Item value="i" priority="285" />
+      <Item value="var" priority="191" />
+      <Item value="row" priority="94" />
+      <Item value="Math`0" priority="31" />
+      <Item value="return" priority="95" />
+      <Item value="new" priority="191" />
+      <Item value="intMatrix" priority="31" />
+      <Item value="while" priority="31" />
+      <Item value="foreach" priority="31" />
+      <Item value="Max`0" priority="26" />
+      <Item value="Console`0" priority="95" />
+      <Item value="maxPath" priority="31" />
+      <Item value="Min`0" priority="54" />
+      <Item value="j" priority="127" />
+      <Item value="Skip`1" priority="26" />
+      <Item value="ElementAt`1" priority="26" />
+      <Item value="if" priority="95" />
+      <Item value="else" priority="63" />
+      <Item value="Last`1" priority="53" />
+      <Item value="string" priority="127" />
+      <Item value="line" priority="64" />
+      <Item value="reader" priority="31" />
+      <Item value="Select`2" priority="26" />
+      <Item value="List" priority="30" />
+      <Item value="IEnumerable" priority="31" />
+      <Item value="StreamReader" priority="29" />
+      <Item value="timer" priority="95" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Max`0" priority="26" />
+      <Item value="Min`0" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Problem81.Matrix">
+      <Item value="FindMaxPath`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="53" />
+      <Item value="ReadLine`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Take`1" priority="26" />
+      <Item value="Sum`0" priority="26" />
+      <Item value="ToArray`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StringReader">
+      <Item value="ReadLine`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="26" />
+      <Item value="IsNullOrEmpty`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Split`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="26" />
+      <Item value="ToArray`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.Stopwatch">
+      <Item value="Start`0" priority="26" />
+      <Item value="Stop`0" priority="26" />
+      <Item value="Elapsed" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

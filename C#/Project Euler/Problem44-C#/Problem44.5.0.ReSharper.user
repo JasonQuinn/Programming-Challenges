@@ -1,0 +1,47 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6C02BA02-1529-4313-9ABE-5F3F278B76E4/f:Program.cs" caret="1136" fromTop="14" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="6C02BA02-1529-4313-9ABE-5F3F278B76E4/f:Program.cs" caret="1850" fromTop="19" />
+      <File id="6C02BA02-1529-4313-9ABE-5F3F278B76E4/f:Program.cs" caret="1843" fromTop="22" />
+      <File id="6C02BA02-1529-4313-9ABE-5F3F278B76E4/f:Program.cs" caret="1729" fromTop="19" />
+      <File id="6C02BA02-1529-4313-9ABE-5F3F278B76E4/f:Program.cs" caret="1729" fromTop="23" />
+      <File id="6C02BA02-1529-4313-9ABE-5F3F278B76E4/f:Program.cs" caret="1729" fromTop="22" />
+      <File id="6C02BA02-1529-4313-9ABE-5F3F278B76E4/f:Program.cs" caret="988" fromTop="23" />
+      <File id="6C02BA02-1529-4313-9ABE-5F3F278B76E4/f:Program.cs" caret="325" fromTop="4" />
+      <File id="6C02BA02-1529-4313-9ABE-5F3F278B76E4/f:Program.cs" caret="1810" fromTop="22" />
+      <File id="6C02BA02-1529-4313-9ABE-5F3F278B76E4/f:Program.cs" caret="1707" fromTop="16" />
+      <File id="6C02BA02-1529-4313-9ABE-5F3F278B76E4/f:Program.cs" caret="1699" fromTop="23" />
+      <File id="6C02BA02-1529-4313-9ABE-5F3F278B76E4/f:Program.cs" caret="1549" fromTop="30" />
+      <File id="6C02BA02-1529-4313-9ABE-5F3F278B76E4/f:Program.cs" caret="1549" fromTop="27" />
+      <File id="6C02BA02-1529-4313-9ABE-5F3F278B76E4/f:Program.cs" caret="988" fromTop="8" />
+      <File id="6C02BA02-1529-4313-9ABE-5F3F278B76E4/f:Program.cs" caret="1718" fromTop="19" />
+      <File id="6C02BA02-1529-4313-9ABE-5F3F278B76E4/f:Program.cs" caret="1718" fromTop="19" />
+      <File id="6C02BA02-1529-4313-9ABE-5F3F278B76E4/f:Program.cs" caret="1718" fromTop="19" />
+      <File id="6C02BA02-1529-4313-9ABE-5F3F278B76E4/f:Program.cs" caret="592" fromTop="16" />
+      <File id="6C02BA02-1529-4313-9ABE-5F3F278B76E4/f:Program.cs" caret="48" fromTop="0" />
+      <File id="6C02BA02-1529-4313-9ABE-5F3F278B76E4/f:Program.cs" caret="1193" fromTop="16" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

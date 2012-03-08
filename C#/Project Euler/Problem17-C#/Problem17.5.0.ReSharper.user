@@ -1,0 +1,33 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="77574452-0FA5-487F-835F-1A57E2D4D004/f:Program.cs" caret="2543" fromTop="18" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="77574452-0FA5-487F-835F-1A57E2D4D004/f:Program.cs" caret="2171" fromTop="21" />
+      <File id="77574452-0FA5-487F-835F-1A57E2D4D004/f:Program.cs" caret="3345" fromTop="15" />
+      <File id="77574452-0FA5-487F-835F-1A57E2D4D004/f:Program.cs" caret="770" fromTop="15" />
+      <File id="77574452-0FA5-487F-835F-1A57E2D4D004/f:Program.cs" caret="2943" fromTop="31" />
+      <File id="77574452-0FA5-487F-835F-1A57E2D4D004/f:Program.cs" caret="2384" fromTop="44" />
+      <File id="77574452-0FA5-487F-835F-1A57E2D4D004/f:Program.cs" caret="2986" fromTop="27" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

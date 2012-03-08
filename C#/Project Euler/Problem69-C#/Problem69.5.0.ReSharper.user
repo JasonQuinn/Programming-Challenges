@@ -1,0 +1,43 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="A2471166-40E1-405A-BCF3-A074853AFDCC/f:Program.cs" caret="1089" fromTop="24" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A2471166-40E1-405A-BCF3-A074853AFDCC/f:Program.cs" caret="891" fromTop="17" />
+      <File id="A2471166-40E1-405A-BCF3-A074853AFDCC/f:Program.cs" caret="751" fromTop="14" />
+      <File id="A2471166-40E1-405A-BCF3-A074853AFDCC/f:Program.cs" caret="2477" fromTop="32" />
+      <File id="A2471166-40E1-405A-BCF3-A074853AFDCC/f:Program.cs" caret="4039" fromTop="46" />
+      <File id="A2471166-40E1-405A-BCF3-A074853AFDCC/f:Program.cs" caret="2477" fromTop="14" />
+      <File id="A2471166-40E1-405A-BCF3-A074853AFDCC/f:Program.cs" caret="2106" fromTop="33" />
+      <File id="A2471166-40E1-405A-BCF3-A074853AFDCC/f:Program.cs" caret="2106" fromTop="28" />
+      <File id="A2471166-40E1-405A-BCF3-A074853AFDCC/f:Program.cs" caret="2106" fromTop="23" />
+      <File id="A2471166-40E1-405A-BCF3-A074853AFDCC/f:Program.cs" caret="2171" fromTop="6" />
+      <File id="A2471166-40E1-405A-BCF3-A074853AFDCC/f:Program.cs" caret="1708" fromTop="24" />
+      <File id="A2471166-40E1-405A-BCF3-A074853AFDCC/f:Program.cs" caret="980" fromTop="2" />
+      <File id="A2471166-40E1-405A-BCF3-A074853AFDCC/f:Program.cs" caret="1235" fromTop="22" />
+      <File id="A2471166-40E1-405A-BCF3-A074853AFDCC/f:Program.cs" caret="1552" fromTop="32" />
+      <File id="A2471166-40E1-405A-BCF3-A074853AFDCC/f:Program.cs" caret="2587" fromTop="23" />
+      <File id="A2471166-40E1-405A-BCF3-A074853AFDCC/f:Program.cs" caret="3543" fromTop="41" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

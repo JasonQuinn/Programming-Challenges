@@ -1,0 +1,10 @@
+C:\Users\Jason-Laptop\Mesh\Mesh\Programming\Project Euler\Problem79-C#\Problem79\bin\Debug\Problem79.exe
+C:\Users\Jason-Laptop\Mesh\Mesh\Programming\Project Euler\Problem79-C#\Problem79\bin\Debug\Problem79.pdb
+C:\Users\Jason-Laptop\Mesh\Mesh\Programming\Project Euler\Problem79-C#\Problem79\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason-Laptop\Mesh\Mesh\Programming\Project Euler\Problem79-C#\Problem79\obj\x86\Debug\Problem79.exe
+C:\Users\Jason-Laptop\Mesh\Mesh\Programming\Project Euler\Problem79-C#\Problem79\obj\x86\Debug\Problem79.pdb
+D:\Data\Documents\Mesh\Programming\Project Euler\Problem79-C#\Problem79\obj\x86\Debug\Problem79.exe
+D:\Data\Documents\Mesh\Programming\Project Euler\Problem79-C#\Problem79\obj\x86\Debug\Problem79.pdb
+D:\Data\Documents\Mesh\Programming\Project Euler\Problem79-C#\Problem79\bin\Debug\Problem79.exe
+D:\Data\Documents\Mesh\Programming\Project Euler\Problem79-C#\Problem79\bin\Debug\Problem79.pdb
+D:\Data\Documents\Mesh\Programming\Project Euler\Problem79-C#\Problem79\obj\x86\Debug\ResolveAssemblyReference.cache
