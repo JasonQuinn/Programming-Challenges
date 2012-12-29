@@ -13,7 +13,7 @@ namespace Problem54
         Straight,
         Flush,
         FullHouse,
-        FourOfAKind, 
+        FourOfAKind,
         StraightFlush,
         RoyalFlush
     }
@@ -50,7 +50,7 @@ namespace Problem54
         public HandResult HighestHand()
         {
             var result = IsRoyalFlush(Hand);
-            if(result!=null)
+            if (result != null)
             {
                 return result;
             }
@@ -98,7 +98,7 @@ namespace Problem54
             if (hand.Any(u => u.CardType == CardValue.Ace) && hand.Any(u => u.CardType == CardValue.Jack))
             {
                 var straightFlush = IsStraightFlush(hand);
-                if(straightFlush!=null)
+                if (straightFlush != null)
                 {
                     return new HandResult(PossiblePokerHands.RoyalFlush, straightFlush.ResultCards, hand);
                 }
@@ -160,7 +160,7 @@ namespace Problem54
 
         private static HandResult IsStraight(Card[] hand)
         {
-            var sum = hand.Sum(u => (int) u.CardType);
+            var sum = hand.Sum(u => (int)u.CardType);
             var straightSum = (int)HighestCard(hand) * 5 - 10;
 
             return sum == straightSum
@@ -219,7 +219,7 @@ namespace Problem54
         private static HandResult HighCard(IList<Card> hand)
         {
             return new HandResult(PossiblePokerHands.HighCard,
-                                  new[] { HighestCard (hand)},
+                                  new[] { HighestCard(hand) },
                                   hand);
         }
 
