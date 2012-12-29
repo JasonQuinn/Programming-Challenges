@@ -132,7 +132,6 @@ namespace Problem54
                                                                           groupedCards.Key,
                                                                           groupedCards.Key
                                                                       }, hand);
-
             }
             return null;
         }
@@ -154,11 +153,9 @@ namespace Problem54
 
         private static HandResult IsFlush(Card[] hand)
         {
-            if( hand.Count(u => u.CardSuit == hand.First().CardSuit) == 5)
-            {
-                return new HandResult(PossiblePokerHands.Flush, hand.Select(u => u.CardType), hand);
-            }
-            return null;
+            return hand.Count(u => u.CardSuit == hand.First().CardSuit) == 5
+                       ? new HandResult(PossiblePokerHands.Flush, hand.Select(u => u.CardType), hand)
+                       : null;
         }
 
         private static HandResult IsStraight(Card[] hand)
@@ -166,21 +163,22 @@ namespace Problem54
             var sum = hand.Sum(u => (int) u.CardType);
             var straightSum = (int)HighestCard(hand) * 5 - 10;
 
-            return sum == straightSum ? new HandResult(PossiblePokerHands.Straight, hand.Select(u => u.CardType), hand) : null;
+            return sum == straightSum
+                       ? new HandResult(PossiblePokerHands.Straight, hand.Select(u => u.CardType), hand)
+                       : null;
         }
 
         private static HandResult IsThreeOfAKind(Card[] hand)
         {
             var groupedCards = hand.GroupBy(c => c.CardType).FirstOrDefault(c => c.Count() == 3);
-            if (groupedCards!=null)
+            if (groupedCards != null)
             {
                 return new HandResult(PossiblePokerHands.ThreeOfAKind, new[]
-                                                                      {
-                                                                          groupedCards.Key,
-                                                                          groupedCards.Key,
-                                                                          groupedCards.Key,
-                                                                      }, hand);
-
+                    {
+                        groupedCards.Key,
+                        groupedCards.Key,
+                        groupedCards.Key,
+                    }, hand);
             }
             return null;
         }
