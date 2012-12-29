@@ -1,26 +1,22 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text;
+﻿using System.IO;
 
 namespace Problem54
 {
     public enum CardValue
     {
-        Two,
-        Three,
-        Four,
-        Five,
-        Six,
-        Seven,
-        Eight,
-        Nine,
-        Ten,
-        Jack,
-        Queen,
-        King,
-        Ace
+        Two = 2,
+        Three = 3,
+        Four = 4,
+        Five = 5,
+        Six = 6,
+        Seven = 7,
+        Eight = 8,
+        Nine = 9,
+        Ten = 10,
+        Jack = 11,
+        Queen = 12,
+        King = 13,
+        Ace = 14
     }
 
     public enum CardSuit
@@ -33,7 +29,7 @@ namespace Problem54
 
     public class Card
     {
-        public CardValue CardType {get;private set;}
+        public CardValue CardType { get; private set; }
         public CardSuit CardSuit { get; private set; }
 
         public Card(string cardString)

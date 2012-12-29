@@ -44,7 +44,7 @@ namespace Problem54
             {
                 throw new InvalidDataException("A hand should have 5 cards");
             }
-            Hand = OrderCards(hand);
+            Hand = hand;
         }
 
         public HandResult HighestHand()
@@ -90,22 +90,12 @@ namespace Problem54
                 return result;
             }
             result = IsOnePair(Hand);
-            if (result != null)
-            {
-                return result;
-            }
-            return HighCard(Hand);
-        }
-
-
-        private static Card[] OrderCards(IEnumerable<Card> hand)
-        {
-            return hand.OrderByDescending(u => u.CardType).ToArray();
+            return result ?? HighCard(Hand);
         }
 
         private static HandResult IsRoyalFlush(Card[] hand)
         {
-            if (hand.Any(u => u.CardType == CardValue.Ace))
+            if (hand.Any(u => u.CardType == CardValue.Ace) && hand.Any(u => u.CardType == CardValue.Jack))
             {
                 var straightFlush = IsStraightFlush(hand);
                 if(straightFlush!=null)
@@ -132,19 +122,17 @@ namespace Problem54
 
         private static HandResult IsFourOfAKind(Card[] hand)
         {
-            for (int i = 0; i < hand.Count() - 3; i++)
+            var groupedCards = hand.GroupBy(c => c.CardType).FirstOrDefault(c => c.Count() == 4);
+            if (groupedCards != null)
             {
-                if (hand.Count(u => u.CardType == hand.ElementAt(i).CardType) == 4)
-                {
-                    return new HandResult(PossiblePokerHands.FourOfAKind,
-                                      new[]
-                                          {
-                                              hand.ElementAt(i).CardType, 
-                                              hand.ElementAt(i).CardType,
-                                              hand.ElementAt(i).CardType,
-                                              hand.ElementAt(i).CardType
-                                          }, hand);
-                }
+                return new HandResult(PossiblePokerHands.FourOfAKind, new[]
+                                                                      {
+                                                                          groupedCards.Key,
+                                                                          groupedCards.Key,
+                                                                          groupedCards.Key,
+                                                                          groupedCards.Key
+                                                                      }, hand);
+
             }
             return null;
         }
@@ -154,7 +142,7 @@ namespace Problem54
             var threeOfAKind = IsThreeOfAKind(hand);
             if (threeOfAKind != null)
             {
-                var pair = IsOnePair(RemoveFromHand(hand, threeOfAKind.ResultCards));
+                var pair = IsOnePair(hand);
                 if (pair != null)
                 {
                     var resultCards = threeOfAKind.ResultCards.Concat(pair.ResultCards);
@@ -175,78 +163,79 @@ namespace Problem54
 
         private static HandResult IsStraight(Card[] hand)
         {
-            var sum = hand.Sum(u => (int)u.CardType);
-            var straightSum = (int)hand.First().CardType * 5 - 10;
+            var sum = hand.Sum(u => (int) u.CardType);
+            var straightSum = (int)HighestCard(hand) * 5 - 10;
 
-            if( sum == straightSum)
-            {
-                return new HandResult(PossiblePokerHands.Straight, hand.Select(u => u.CardType), hand);
-            }
-            return null;
+            return sum == straightSum ? new HandResult(PossiblePokerHands.Straight, hand.Select(u => u.CardType), hand) : null;
         }
 
         private static HandResult IsThreeOfAKind(Card[] hand)
         {
-            for (int i = 0; i < hand.Count() - 2; i++)
+            var groupedCards = hand.GroupBy(c => c.CardType).FirstOrDefault(c => c.Count() == 3);
+            if (groupedCards!=null)
             {
-                if (hand.Count(u => u.CardType == hand.ElementAt(i).CardType) == 3)
-                {
-                    return new HandResult(PossiblePokerHands.ThreeOfAKind,
-                                      new[]
-                                          {
-                                              hand.ElementAt(i).CardType, 
-                                              hand.ElementAt(i).CardType,
-                                              hand.ElementAt(i).CardType
-                                          }, hand);
-                }
+                return new HandResult(PossiblePokerHands.ThreeOfAKind, new[]
+                                                                      {
+                                                                          groupedCards.Key,
+                                                                          groupedCards.Key,
+                                                                          groupedCards.Key,
+                                                                      }, hand);
+
             }
             return null;
         }
 
         private static HandResult IsTwoPairs(Card[] hand)
         {
-            var pair1 = IsOnePair(hand);
-            if(pair1!=null)
+            var groupedCards = hand.GroupBy(c => c.CardType).Where(c => c.Count() == 2);
+            if (groupedCards.Count() == 2)
             {
-                var pair2 = IsOnePair(RemoveFromHand(hand, pair1.ResultCards));
-                if(pair2!=null)
-                {
-                    var resultCards = pair1.ResultCards.Concat(pair2.ResultCards);
-                    return new HandResult(PossiblePokerHands.TwoPairs, resultCards, hand);
-                }
+                var firstPairValue = groupedCards.First().Key;
+                var secondPairValue = groupedCards.ElementAt(1).Key;
+                return new HandResult(PossiblePokerHands.TwoPairs, new[]
+                    {
+                        firstPairValue,
+                        firstPairValue,
+                        secondPairValue,
+                        secondPairValue
+                    }, hand);
             }
             return null;
         }
 
         private static HandResult IsOnePair(IEnumerable<Card> hand)
         {
-            for (int i = 0; i < hand.Count() - 1; i++)
+            var groupedCards = hand.GroupBy(c => c.CardType).Where(c => c.Count() == 2);
+            if (groupedCards.Count() == 1)
             {
-                if (hand.Count(u => u.CardType == hand.ElementAt(i).CardType) == 2)
-                {
-                    return new HandResult(PossiblePokerHands.OnePair, new[]
-                                                                      {
-                                                                          hand.ElementAt(i).CardType,
-                                                                          hand.ElementAt(i).CardType
-                                                                      }, hand);
-                }
+                var cardValue = groupedCards.First().Key;
+                return new HandResult(PossiblePokerHands.OnePair, new[]
+                    {
+                        cardValue,
+                        cardValue
+                    }, hand);
             }
             return null;
         }
 
-        private static HandResult HighCard(Card[] hand)
+        private static HandResult HighCard(IList<Card> hand)
         {
             return new HandResult(PossiblePokerHands.HighCard,
-                              new [] {hand[0].CardType},
-                              hand);
+                                  new[] { HighestCard (hand)},
+                                  hand);
         }
 
-        public static IEnumerable<Card> RemoveFromHand(IEnumerable<Card> hand, IEnumerable<CardValue> cardValue)
+        private static CardValue HighestCard(IEnumerable<Card> hand)
+        {
+            return hand.Max(u => u.CardType);
+        }
+
+        public static IEnumerable<Card> RemoveFromHand(IEnumerable<Card> hand, IEnumerable<CardValue> cardValues)
         {
             var newHandValues = new List<Card>(hand);
-            for (int i = 0; i < cardValue.Count(); i++)
+            foreach (var cardValue in cardValues)
             {
-                newHandValues.Remove(newHandValues.First(u => u.CardType == cardValue.ElementAt(i)));
+                newHandValues.Remove(newHandValues.First(u => u.CardType == cardValue));
             }
             return newHandValues;
         }
